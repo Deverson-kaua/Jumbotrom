@@ -1,8 +1,16 @@
-.kaua {
-    color: lightsalmon;
-}
-
+@import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|Raleway&disolay=swap');
 .bg-title {
     background-image: linear-gradient(to bottom right, #81ecec, #a29bfe, #fd79a8);
     color: white;
+}
+
+.text-title {
+    font-family: 'Akronim', 'cursive';
+    font-size: 6em;
+}
+
+.text-ks {
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 3em;
 }
